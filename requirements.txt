@@ -1,0 +1,5 @@
+gunicorn
+dash-bootstrap-components
+dash
+altair
+vega_datasets
